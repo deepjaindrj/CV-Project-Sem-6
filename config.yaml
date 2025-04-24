@@ -1,0 +1,7 @@
+
+path: C:\Users\oribl\ComputerScienceProjects\Python_Ori\Aircraft Detection\data
+train: images/train
+val: images/train
+
+names:
+    0: Aircraft

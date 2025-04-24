@@ -1,0 +1,13 @@
+description: Ultralytics YOLOv8s model trained on config.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-12-18T16:19:10.271783'
+version: 8.0.227
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Aircraft
