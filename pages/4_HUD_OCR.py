@@ -114,8 +114,8 @@ st.markdown(
 )
 
 # API Keys (Securely handle in production with environment variables)
-MISTRAL_API_KEY = "JZslDyH2l2tQHDksRbDfHYVKgO50LfkN"
-GEMINI_API_KEY = "AIzaSyAwY29cyESToWBGM3Rg2mEghTJUGyMaoJw"
+MISTRAL_API_KEY = ""
+GEMINI_API_KEY = ""
 
 # Set Tesseract executable path
 try:
