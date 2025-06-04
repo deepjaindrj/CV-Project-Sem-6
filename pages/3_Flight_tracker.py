@@ -19,7 +19,7 @@ import plotly.express as px
 import streamlit as st
 from flight_tracker_data import flight_data
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer "}
 
 def query(payload):
     response = requests.post(API_URL, headers=headers, json=payload)
